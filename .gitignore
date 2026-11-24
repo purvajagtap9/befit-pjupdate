@@ -1,0 +1,11 @@
+
+befit-inner-git-backup/
+
+.vscode/
+**/target/
+**/node_modules/
+.env
+.env.*
+!.env.example
+
+**/application-local.properties
